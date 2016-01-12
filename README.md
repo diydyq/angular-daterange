@@ -3,7 +3,7 @@ Daterange for angular
 
 ## Dependency List:
 1. jQuery
-2. [Daterange picker](https://github.com/longbill/jquery-date-range-picker);
+2. [Daterange picker](https://github.com/diydyq/jquery-date-range-picker);
 3. AngualrJS 1.4.7
 
 ## Usage Demo
