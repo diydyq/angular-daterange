@@ -103,3 +103,8 @@ Daterange for angular
 ## Snapshot
 
 
+![Snapshot1][1]
+
+
+
+[1]: /diydyq/angular-daterange/blob/master/daterange.png?raw=true
