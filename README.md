@@ -107,4 +107,4 @@ Daterange for angular
 
 
 
-[1]: http://www.github.com/diydyq/angular-daterange/blob/master/daterange.png?raw=true
+[1]: https://raw.githubusercontent.com/diydyq/angular-daterange/master/daterange.png
